@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\bin\Debug\net6.0\inheritance.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\bin\Debug\net6.0\inheritance.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\bin\Debug\net6.0\inheritance.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\bin\Debug\net6.0\inheritance.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\inheritance\obj\Debug\net6.0\ref\inheritance.dll
